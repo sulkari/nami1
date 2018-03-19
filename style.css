@@ -1,0 +1,17 @@
+    p { 
+  color: grey; 
+  font-weight: normal; 
+  font-family: arial;
+  }
+  h1{color:black;
+  text-align: center;
+  font-weight:normal;
+  text-decoration: bold;}
+  h2{color: black;
+  font-weight:normal;
+  }
+   body { line-height:2;
+     border: 2px solid black;
+     ;
+   }
+  h2{ *color: black;}
